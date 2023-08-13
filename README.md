@@ -1,9 +1,16 @@
-# Pengalaman Belajar
+# Belajar Markdown di github untuk readme.md
+
+## ada beberapa level heading sampai yang terkecil 6, simbol harus terpisah dengan huruf yang ditulisnya!!!
+
+### tergantung dengan jumlah pagarnya(#)
+
 latihan dicoding
 --
-__hanya latihan bukan pengalaman asli__
+__Hanya latihan bukan pengalaman asli__
 
 *penambahan italic*
+
+***menggunakan 3 bintang atau 3 underscore akan italic dan bold***
 
 14 Juni 2021
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
