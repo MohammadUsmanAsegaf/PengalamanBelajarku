@@ -28,3 +28,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 56%)
   * Belajar tipe data koleksi, seperti list, set, dan map.
 oh.. drag and drop aja.. 
 ![Greendrop logo](https://github.com/MohammadUsmanAsegaf/PengalamanBelajarku/assets/142000628/b2b9e332-ce20-4714-a16d-0fb3af313170)
+
+lebih baik disetiap update keterangan nya dijudul juga
