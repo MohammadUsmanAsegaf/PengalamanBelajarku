@@ -12,6 +12,8 @@ __Hanya latihan bukan pengalaman asli__
 
 ***menggunakan 3 bintang atau 3 underscore akan italic dan bold***
 
+> sebuah blockquote
+
 14 Juni 2021
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar tentang apa itu Java dan alasan menggunakannya.
