@@ -3,6 +3,7 @@ latihan dicoding
 --
 __hanya latihan bukan pengalaman asli__
 *penambahan italic*
+
 14 Juni 2021
 Belajar kelas Memulai Pemrograman dengan Java. (Progres 21%)
 * Belajar tentang apa itu Java dan alasan menggunakannya.
